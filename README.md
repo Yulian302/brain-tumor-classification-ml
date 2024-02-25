@@ -1,4 +1,7 @@
 # Brain-Tumor-Classification-from-MRI-images-TL-
+
+![Brain Tumor Classification Preview Image](./BrainTumorClassificationPreview.jpg)
+
 A brain tumor multiclass classification from MRI images using transfer learning technique. 
 Two models' performance is compared:
   1) TL on top of VGG16 <- (36M params)
